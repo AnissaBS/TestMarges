@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: rgb(230, 218, 196);
+    background-color: rgb(118, 130, 96);
+}
+
+#maDiv{
+    border: 1px solid rgb(224, 214, 195);
+    height: 500px;
+    margin: 10px 20px 10px 20px;
+    border-radius: 10px;
+}
+
+.menu{
+    display: flex;
+    border: 3px dotted rgb(236, 224, 203);
+}
+
+li{
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+a:hover{
+    color:aquamarine;
+}
